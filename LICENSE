@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2025] Riste Mingov
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,17 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+
+   ADDITIONAL ATTRIBUTION REQUIREMENT:
+
+   In addition to the requirements in the Apache License 2.0, any public use,
+   demonstration, presentation, marketing material, or other external
+   representation of this software, whether in original or modified form, must
+   clearly and visibly attribute authorship to:
+
+      "Developed by Riste Mingov"
+
+   This attribution must appear in a location and format that is reasonably
+   noticeable to the intended audience (e.g., in slides, documentation, or
+   public-facing application credits).
